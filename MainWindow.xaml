@@ -10,7 +10,5 @@
         Width="800"
         WindowState="Maximized"
     >
-    <Grid>
-
-    </Grid>
+    <StackPanel></StackPanel>
 </Window>
