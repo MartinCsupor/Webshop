@@ -8,6 +8,7 @@
         Title="Webshop" 
         Height="450"
         Width="800"
+        WindowState="Maximized"
     >
     <Grid>
 
